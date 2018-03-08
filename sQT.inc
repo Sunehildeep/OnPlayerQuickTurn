@@ -19,7 +19,7 @@ forward QuickTurn_OnPlayerStateChange(playerid, newstate, oldstate);
 #endif
 
 #if defined OnPlayerQuickTurn
-forwrd OnPlayerQuickTurn(playerid, turntype);
+forward OnPlayerQuickTurn(playerid, turntype);
 #endif
 
 /*=================================================
